@@ -1,0 +1,1 @@
+<p>Micro template "bar" body content: <%= data.tagline %><p>
